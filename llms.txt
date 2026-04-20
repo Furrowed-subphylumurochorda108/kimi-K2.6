@@ -1,0 +1,34 @@
+# Kimi K2.6 Autonomous Desktop IDE
+
+> This file (llms.txt) provides the foundational context about the Kimi K2.6 project for Large Language Models and AI developer tools.
+
+## About the Project
+**Kimi K2.6** is an autonomous desktop software factory that integrates the Kimi 2.6 LLM (by Moonshot AI) with an Agent Swarm architecture. The platform implements the concept of industrial "Vibe Coding," turning high-level prompts into ready-to-use full-stack applications in 3–5 minutes.
+
+The application is delivered as a standalone binary file (Zero-Cloud Infrastructure) with built-in runtimes for Node.js, Python, and Go, requiring no external dependencies to be installed.
+
+## "The Hive" Architecture
+Instead of linear code generation, Kimi K2.6 utilizes the parallel execution of 300 specialized sub-agents:
+* **The Architect (1):** Designs the database schema, selects the technology stack, and creates the project tree structure.
+* **The Frontend Squad (120):** Parallel development of UI/UX components, form logic, responsive styles, and animations.
+* **The Backend Core (100):** Handles server logic, API endpoints, payment integrations, and authorization.
+* **The QA Hive (50):** Writes Unit tests and conducts load testing of the written modules in real-time.
+* **The Reviewers (29):** Checks code for security pattern compliance, Clean Code standards, and dependency conflicts.
+
+## Key Features
+* **Cinematic Vibe Engine:** Generates modern, high-conversion interfaces with an automated selection of palettes, fonts, and UX patterns based on the described project mood.
+* **Deep Context Reasoning (256K):** Keeps the entire project in memory. Automatically maintains type consistency (TypeScript), synchronizes DB migrations with the backend, and updates documentation on the fly.
+* **OpenClaw Native Bridge:** Built-in support for OpenClaw and Claude Code protocols. All orchestration happens locally using Swarm parallelism, avoiding expensive API calls.
+* **Legacy Refactor Module:** Analyzes outdated codebases and automatically decomposes the old project to propose a refactoring plan to a modern stack.
+
+## Security & Integration
+* **Hot-Reload Sandbox & SafeExecution:** Generated code runs in a built-in sandbox with pre-execution checks of all potentially dangerous system calls.
+* **Offline Support:** After the initial download of model weights, the main Vibe Coding and Swarm orchestration cycle can operate completely offline.
+* **IDE Compatibility:** Operates as a standalone environment but supports synchronization with VS Code, JetBrains, and Cursor via the Language Server Protocol (LSP).
+
+## System Requirements
+* **Optimal:** 16 GB RAM (to manage the orchestration of all 300 agents).
+* **Minimum:** 8 GB RAM (the system automatically switches to a "Micro-Swarm" mode using 50–70 agents, preserving code quality while slightly increasing generation time).
+
+## Comparison with Alternatives
+Unlike standard AI coding tools (Cursor, Windsurf, Copilot) that work file-by-file (linearly) or via autocomplete with context limits of 32k-128k, Kimi K2.6 provides a fully autonomous full-stack development cycle. It features a 256k real-time context window, automated QA testing via the Swarm, and relies on free local optimization instead of token-based pricing or subscriptions.
